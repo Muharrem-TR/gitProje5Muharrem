@@ -11,5 +11,7 @@ public class Ogrenci {
 
         System.out.println("mer 1");
 
+        System.out.println("Dünya 1");
+
     }
 }
